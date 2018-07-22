@@ -1,2 +1,4 @@
 Record=TopLevelDocument|FileName=DeHumidity.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=DeHumidity.SchDoc|Designator=CPU|SchDesignator=CPU|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|Record=SheetSymbol|SourceDocument=DeHumidity.SchDoc|Designator=HMI|SchDesignator=HMI|FileName=Hmi.SchDoc|SymbolType=Normal|RawFileName=Hmi.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=DeHumidity.SchDoc|Designator=Main|SchDesignator=Main|FileName=main.SchDoc|SymbolType=Normal|RawFileName=main.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
