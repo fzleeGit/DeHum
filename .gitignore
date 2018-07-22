@@ -8,3 +8,15 @@ Hw/History/Hmi.~(3).SchDoc.Zip
 Hw/History/Hmi.~(4).SchDoc.Zip
 Hw/History/Hmi.~(5).SchDoc.Zip
 Hw/History/Hmi.~(6).SchDoc.Zip
+*.SchDocPreview
+*.$$$Preview
+*.PcbDocPreview
+*.SchDoc.Zip
+*.PcbLib.zip
+*.PrjPcb.Zip
+*.PcbDoc.Zip
+*.LOG
+*.Zip
+*.html
+*.drc
+*.txt
